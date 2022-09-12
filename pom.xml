@@ -12,7 +12,6 @@
 	<groupId>com.generation</groupId>
 	<artifactId>blogpessoal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>blogpessoal</name>
 	<description>Projeto Blog Pessoal</description>
 	<properties>
